@@ -5,12 +5,9 @@
 <br/><br/><br/>
 
 # nosql_practica3
-## Objetivos
- * Objetivo 1
- * Objetivo 2
-## Descripción de la práctica
+## Objetivos y descripción de la práctica
 
-A completar por el profesor
+Enunciado disponible en pdf en Moodle
 
 
 ## Descargar el código del proyecto
